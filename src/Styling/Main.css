@@ -1,0 +1,18 @@
+.Main {
+    height: 100vh;
+    display: grid;    
+    background-color: red;
+    grid-template-columns: 45% 10% 45%;
+}
+#about-section{
+     text-align: center;
+     overflow-wrap: break-word;
+     background-color: yellow;
+}
+#avatar{
+    background-color: blue;
+}
+#external-links{
+    text-align: center;
+    margin-top: 45%;
+}
